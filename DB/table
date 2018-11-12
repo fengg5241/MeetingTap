@@ -1,0 +1,6 @@
+1 meeting table
+  id name starttime endtime location
+2 user table
+  id name ic email phonenumber icode
+3 Meetiing_checkin table
+  id meetingId userid 

@@ -1,0 +1,7 @@
+div.DTED_Lightbox_Wrapper{
+    z-index:1001;
+}
+
+div.DTED_Lightbox_Background{
+    z-index:1000;
+}
